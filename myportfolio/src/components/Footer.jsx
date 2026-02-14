@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="row align-items-center flex-nowrap text-nowrap p-0">
           
           <div className="col-3 col-md-3 col-sm-3 phone-footer ">
-            <a href="tel:9866144861" className="viewall_keys1">
+            <a href="tel:9392276970" className="viewall_keys1">
               Call <span className="mob">: +91 9392276970</span>
             </a>
           </div>
